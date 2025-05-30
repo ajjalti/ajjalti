@@ -35,6 +35,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur freelance basé au Mar
 
 - ✉️ **Email** : [ahmed.ajjalti@gmail.com](mailto:ahmed.ajjalti@gmail.com)  
 - 💼 **LinkedIn** : [linkedin.com/in/ahmed-ajjalti](https://www.linkedin.com/in/ahmed-ajjalti/)
+- 💼 **Reddit** : [reddit.com/user/UserMacShiba/](https://www.reddit.com/user/UserMacShiba/)
 
 ---
 
